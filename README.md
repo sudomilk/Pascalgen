@@ -1,6 +1,8 @@
 Pascalgen
 =========
 
+![travis-ci status](https://travis-ci.org/sudomilk/Pascalgen.svg?branch=master)
+
 This is my first attempt at learning to use `mix`. This is also really great at destroying the RAM on a given machine when calculating a Pascal's triangle somewhere to the tune of > 4,000 levels.
 
 Usage
