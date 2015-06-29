@@ -1,3 +1,8 @@
 language: elixir
 otp_release:
   - 17.4
+
+notifications:
+  slack:
+    rooms:
+      - trumpeterswan:UYw9WTvCyHtej8s6u5Hf6taw#general
