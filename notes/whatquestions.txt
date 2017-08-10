@@ -17,3 +17,5 @@ a: there is a pattern there, but i'm not math-smart enough to make use of it. it
 
 q: are there maybe more patterns here than i likely could find in the week or so this toy problem will keep my attention for this year?
 a: yep. cheated and grabbed this http://www.cut-the-knot.org/arithmetic/combinatorics/PascalTriangleProperties.shtml
+
+q: wait, is that 𝑒 showing up in middledivsum.txt?
