@@ -13,3 +13,7 @@ q: is the middle most element or pair of elements never more than half of the su
 a: no, the first level's middle element is 100% of the series
 
 q: do the first half of elements in the series follow a pattern of the difference between each pair of neighboring elements?
+a: there is a pattern there, but i'm not math-smart enough to make use of it. its obviously related to how each column affects the pattern. since i can't derive a rank entirely based off of that without referencing other ranks, its not useful to me.
+
+q: are there maybe more patterns here than i likely could find in the week or so this toy problem will keep my attention for this year?
+a: yep. cheated and grabbed this http://www.cut-the-knot.org/arithmetic/combinatorics/PascalTriangleProperties.shtml
