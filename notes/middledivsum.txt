@@ -1,0 +1,15 @@
+middle-most element / sum of rank's series
+1.0
+0.5
+0.5
+0.375
+0.375
+0.3125
+0.3125
+0.2734375
+0.2734375
+0.24609375
+0.245136186770428
+0.2247081712062257
+
+http://www.plotvar.com/line.php?title=Pascal%27s+Triangle+Percentage+Degredation&yaxis=%25&xvalues=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12&serie1=&values_serie1=100%2C+50%2C+50%2C+37.5%2C+37.5%2C+31.25%2C+32.25%2C+27.34%2C+27.34%2C+24.61%2C+24.51%2C+22.47
