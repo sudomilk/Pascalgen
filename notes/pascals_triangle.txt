@@ -1,4 +1,3 @@
-pascal's triangle
                           1
 <<<<<<< HEAD
                        1     1
